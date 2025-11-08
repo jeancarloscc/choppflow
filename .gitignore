@@ -298,4 +298,5 @@ fabric.properties
 
 !/gradle/wrapper/gradle-wrapper.jar
 
-# End of https://www.toptal.com/developers/gitignore/api/flutter,androidstudio,android,dart,firebase,web,visualstudiocode
+# End of https://www.toptal.com/developers/gitignore/api/flutter,androidstudio,android,dart,firebase,web,visualstudiocodeirestore.rules
+firestore.rules
