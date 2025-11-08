@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "484466545175",
+    "project_id": "choppflow-app",
+    "storage_bucket": "choppflow-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484466545175:android:e5044105a574c616468252",
+        "android_client_info": {
+          "package_name": "com.jeancc.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJxrksFTqQsHsnqJ0JdGZWV_0CRc1RS2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484466545175:android:a3b169848ee06c6a468252",
+        "android_client_info": {
+          "package_name": "com.jeancc.project.choppflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJxrksFTqQsHsnqJ0JdGZWV_0CRc1RS2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
